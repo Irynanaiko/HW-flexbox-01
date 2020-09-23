@@ -33,7 +33,7 @@ body {
     text-align: center;
 }
 
-.wrapper :hover {
+.card:hover {
     transform: scale(1.1);
 }
 
